@@ -1,3 +1,3 @@
 # reminders
 
-This is repo containing some personal reminders. 
+This is a repo containing some personal reminders. 
